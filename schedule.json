@@ -1,0 +1,40 @@
+{
+  "slotDuration": 30,
+  "lunchBreak": {
+    "active": false,
+    "from": "14:00",
+    "to": "15:00"
+  },
+  "days": {
+    "lunes": {
+      "active": true,
+      "start": "09:00",
+      "end": "18:00"
+    },
+    "martes": {
+      "active": true,
+      "start": "09:00",
+      "end": "18:00"
+    },
+    "miercoles": {
+      "active": true,
+      "start": "09:00",
+      "end": "18:00"
+    },
+    "jueves": {
+      "active": true,
+      "start": "09:00",
+      "end": "18:00"
+    },
+    "viernes": {
+      "active": true,
+      "start": "09:00",
+      "end": "18:00"
+    },
+    "sabado": {
+      "active": false,
+      "start": "09:00",
+      "end": "18:00"
+    }
+  }
+}
